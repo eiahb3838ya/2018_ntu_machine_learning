@@ -1,0 +1,293 @@
+10-25 16:43 root         INFO     start train num :1 feature_scaling:z_feature_scaling  epoch:1000000
+10-25 16:45 root         INFO     start train num :1 feature_scaling:z_feature_scaling  epoch:1000000
+10-25 16:48 root         INFO     start train num :1 feature_scaling:z_feature_scaling  epoch:1000000
+10-25 16:50 root         INFO     start train num :1 feature_scaling:z_feature_scaling  epoch:1000000
+10-25 17:21 root         INFO     start train num :2 feature_scaling:z_feature_scaling  epoch:10000
+10-25 17:54 root         INFO     start train num :3 feature_scaling:feature_scaling  epoch:1000000
+10-25 22:27 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:5000000
+10-25 22:28 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:5000000
+10-25 22:29 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:5000000
+10-26 00:31 matplotlib.axes._base DEBUG    update_title_pos
+10-26 00:31 matplotlib.font_manager DEBUG    findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('C:\\Users\\eiahb\\AppData\\Local\\conda\\conda\\envs\\futureenv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+10-26 00:31 matplotlib.axes._base DEBUG    update_title_pos
+10-26 00:31 matplotlib.axes._base DEBUG    update_title_pos
+10-26 00:31 matplotlib.axes._base DEBUG    update_title_pos
+10-26 00:31 matplotlib.axes._base DEBUG    update_title_pos
+10-29 16:09 root         INFO     trytry
+10-29 16:29 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:1000000
+10-29 16:29 matplotlib.axes._base DEBUG    update_title_pos
+10-29 16:29 matplotlib.font_manager DEBUG    findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('C:\\Users\\eiahb\\AppData\\Local\\conda\\conda\\envs\\futureenv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+10-29 16:29 matplotlib.axes._base DEBUG    update_title_pos
+10-29 16:32 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:1000000
+10-29 16:32 matplotlib.axes._base DEBUG    update_title_pos
+10-29 16:32 matplotlib.axes._base DEBUG    update_title_pos
+10-29 16:32 matplotlib.axes._base DEBUG    update_title_pos
+10-29 16:32 matplotlib.axes._base DEBUG    update_title_pos
+10-29 16:34 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:1000000
+10-29 16:34 matplotlib.axes._base DEBUG    update_title_pos
+10-29 16:34 matplotlib.axes._base DEBUG    update_title_pos
+10-29 16:34 matplotlib.axes._base DEBUG    update_title_pos
+10-29 16:34 matplotlib.axes._base DEBUG    update_title_pos
+10-29 16:36 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:1000000
+10-29 16:36 matplotlib.axes._base DEBUG    update_title_pos
+10-29 16:36 matplotlib.axes._base DEBUG    update_title_pos
+10-29 16:36 matplotlib.axes._base DEBUG    update_title_pos
+10-29 16:36 matplotlib.axes._base DEBUG    update_title_pos
+10-29 16:39 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:1000000
+10-29 16:39 matplotlib.axes._base DEBUG    update_title_pos
+10-29 16:39 matplotlib.axes._base DEBUG    update_title_pos
+10-29 16:39 matplotlib.axes._base DEBUG    update_title_pos
+10-29 16:39 matplotlib.axes._base DEBUG    update_title_pos
+10-29 16:40 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:1000000
+10-29 16:40 matplotlib.axes._base DEBUG    update_title_pos
+10-29 16:40 matplotlib.axes._base DEBUG    update_title_pos
+10-29 16:40 matplotlib.axes._base DEBUG    update_title_pos
+10-29 16:40 matplotlib.axes._base DEBUG    update_title_pos
+10-29 16:42 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:1000000
+10-29 16:42 matplotlib.axes._base DEBUG    update_title_pos
+10-29 16:42 matplotlib.axes._base DEBUG    update_title_pos
+10-29 16:42 matplotlib.axes._base DEBUG    update_title_pos
+10-29 16:42 matplotlib.axes._base DEBUG    update_title_pos
+10-29 16:50 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:1000000
+10-29 16:50 matplotlib.axes._base DEBUG    update_title_pos
+10-29 16:50 matplotlib.axes._base DEBUG    update_title_pos
+10-29 16:50 matplotlib.axes._base DEBUG    update_title_pos
+10-29 16:50 matplotlib.axes._base DEBUG    update_title_pos
+10-29 16:54 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:1000000
+10-29 16:54 matplotlib.axes._base DEBUG    update_title_pos
+10-29 16:54 matplotlib.axes._base DEBUG    update_title_pos
+10-29 16:54 matplotlib.axes._base DEBUG    update_title_pos
+10-29 16:54 matplotlib.axes._base DEBUG    update_title_pos
+10-29 16:54 matplotlib.axes._base DEBUG    update_title_pos
+10-29 16:54 matplotlib.axes._base DEBUG    update_title_pos
+10-29 16:54 matplotlib.axes._base DEBUG    update_title_pos
+10-29 16:54 matplotlib.axes._base DEBUG    update_title_pos
+10-29 16:56 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:1000000
+10-29 16:56 matplotlib.axes._base DEBUG    update_title_pos
+10-29 16:56 matplotlib.axes._base DEBUG    update_title_pos
+10-29 16:56 matplotlib.axes._base DEBUG    update_title_pos
+10-29 16:56 matplotlib.axes._base DEBUG    update_title_pos
+10-29 16:59 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:1000000
+10-29 16:59 matplotlib.axes._base DEBUG    update_title_pos
+10-29 16:59 matplotlib.axes._base DEBUG    update_title_pos
+10-29 16:59 matplotlib.axes._base DEBUG    update_title_pos
+10-29 16:59 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:02 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:1000000
+10-29 17:02 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:02 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:02 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:02 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:02 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:1000000
+10-29 17:02 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:02 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:02 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:02 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:03 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:1000000
+10-29 17:03 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:03 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:03 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:03 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:04 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:1000000
+10-29 17:04 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:04 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:04 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:04 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:05 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:1000000
+10-29 17:05 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:05 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:05 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:05 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:05 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:1000000
+10-29 17:05 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:05 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:05 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:05 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:06 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:1000000
+10-29 17:06 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:06 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:06 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:06 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:07 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:1000000
+10-29 17:07 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:07 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:07 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:07 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:09 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:1000000
+10-29 17:09 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:09 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:09 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:09 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:12 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:2
+10-29 17:12 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:12 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:12 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:12 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:12 root         DEBUG    start train #4
+10-29 17:12 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:5000000
+10-29 17:14 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:2
+10-29 17:14 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:14 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:14 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:14 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:14 root         DEBUG    start train #4
+10-29 17:14 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:5000000
+10-29 17:14 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:2
+10-29 17:14 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:14 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:14 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:14 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:14 root         DEBUG    start train #4
+10-29 17:14 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:5000000
+10-29 17:15 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:2
+10-29 17:15 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:2
+10-29 17:15 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:15 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:15 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:15 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:15 root         DEBUG    start train #4
+10-29 17:15 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:5000000
+10-29 17:16 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:2
+10-29 17:16 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:16 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:16 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:16 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:16 root         DEBUG    start train #4
+10-29 17:16 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:5000000
+10-29 17:17 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:2
+10-29 17:17 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:17 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:17 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:17 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:17 root         DEBUG    start train #4
+10-29 17:17 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:5000000
+10-29 17:18 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:2
+10-29 17:18 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:18 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:18 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:18 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:18 root         DEBUG    start train #4
+10-29 17:18 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:5000000
+10-29 17:20 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:2
+10-29 17:20 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:20 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:20 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:20 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:20 root         DEBUG    start train #4
+10-29 17:20 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:5000000
+10-29 17:23 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:2
+10-29 17:23 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:23 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:23 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:23 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:23 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:2
+10-29 17:23 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:23 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:23 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:23 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:26 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:2
+10-29 17:26 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:26 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:26 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:26 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:30 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:2
+10-29 17:30 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:30 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:30 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:30 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:34 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:2
+10-29 17:34 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:34 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:34 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:34 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:36 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:2
+10-29 17:36 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:36 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:36 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:36 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:38 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:2
+10-29 17:38 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:38 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:38 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:38 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:51 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:2
+10-29 17:51 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:51 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:51 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:51 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:52 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:2
+10-29 17:52 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:52 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:52 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:52 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:53 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:2
+10-29 17:53 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:53 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:53 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:53 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:54 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:2
+10-29 17:54 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:54 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:54 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:54 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:55 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:2
+10-29 17:55 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:55 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:55 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:55 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:57 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:2
+10-29 17:57 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:57 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:57 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:57 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:57 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:2
+10-29 17:57 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:57 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:57 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:57 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:58 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:500000
+10-29 17:58 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:58 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:58 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:58 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:59 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:500000
+10-29 17:59 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:59 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:59 matplotlib.axes._base DEBUG    update_title_pos
+10-29 17:59 matplotlib.axes._base DEBUG    update_title_pos
+10-29 18:01 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:500000
+10-29 18:04 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:500000
+10-29 18:05 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:500000
+10-29 18:07 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:500000
+10-29 18:09 root         INFO     start train num :5 feature_scaling:feature_scaling  epoch:500000
+10-29 18:24 root         INFO     start train num :5 feature_scaling:feature_scaling  epoch:500000
+10-29 21:26 root         DEBUG    start train #4
+10-29 21:26 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:500000
+10-29 21:31 root         DEBUG    start train #4
+10-29 21:31 root         INFO     start train num :4 feature_scaling:feature_scaling  epoch:500000
+10-30 00:43 root         INFO     start train num :6 feature_scaling:feature_scaling  epoch:500000
+10-30 00:44 root         INFO     start train num :6 feature_scaling:feature_scaling  epoch:500000
+10-30 01:36 root         INFO     start train num :7 feature_scaling:feature_scaling  epoch:500000
+10-30 03:08 root         INFO     training done
+10-30 08:30 root         INFO     start train num :7 feature_scaling:feature_scaling  epoch:500000
+10-30 08:31 root         DEBUG    start train #8
+10-30 08:31 root         INFO     start train num :8 feature_scaling:feature_scaling  epoch:500000
+10-30 08:31 root         INFO     start train num :8 feature_scaling:feature_scaling  epoch:500000
+10-30 14:35 root         INFO     start train num :9 feature_scaling:feature_scaling  epoch:5000000
+10-30 14:37 root         INFO     start train num :9 feature_scaling:feature_scaling  epoch:5000000
+10-30 14:40 root         INFO     start train num :9 feature_scaling:feature_scaling  epoch:5000000
+10-30 14:42 root         INFO     start train num :9 feature_scaling:feature_scaling  epoch:5000000
+10-30 14:55 root         INFO     training done
+10-30 15:03 root         INFO     training done
+10-30 15:08 root         INFO     start train num :9 feature_scaling:feature_scaling  epoch:5000000
+10-30 15:17 root         INFO     start train num :9 feature_scaling:feature_scaling  epoch:5000000
+10-30 15:18 root         INFO     start train num :11 feature_scaling:feature_scaling  epoch:5000000
+10-30 15:28 root         INFO     training done
+10-30 15:29 root         INFO     start train num :10 feature_scaling:feature_scaling  epoch:5000000
+10-30 15:48 root         INFO     training done
+10-30 15:48 root         INFO     training done
+10-30 15:51 root         INFO     start train num :10 feature_scaling:feature_scaling  epoch:5000000
+10-30 15:52 root         INFO     start train num :11 feature_scaling:feature_scaling  epoch:5000000
+10-30 15:52 root         INFO     start train num :11 feature_scaling:feature_scaling  epoch:5000000
+10-30 15:55 root         INFO     training done
+10-30 16:07 root         INFO     training done
+10-30 16:15 root         INFO     training done
